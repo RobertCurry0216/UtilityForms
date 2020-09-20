@@ -3,7 +3,7 @@ using System.Text.RegularExpressions;
 using System.Windows.Input;
 using UtilityForms.ViewModel.Enums;
 
-namespace UtilityForms.Controls
+namespace UtilityForms
 {
     public class UserInputOptions
     {

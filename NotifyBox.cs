@@ -5,7 +5,7 @@ using UtilityForms.View;
 using UtilityForms.ViewModel;
 using UtilityForms.ViewModel.Enums;
 
-namespace UtilityForms.Controls
+namespace UtilityForms
 {
     public static class NotifyBox
     {

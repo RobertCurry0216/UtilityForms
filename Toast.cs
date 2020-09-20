@@ -12,7 +12,7 @@ using UtilityForms.Properties;
 using UtilityForms.View;
 using UtilityForms.View.Converters;
 
-namespace UtilityForms.Controls
+namespace UtilityForms
 {
     public static class Toast
     {
